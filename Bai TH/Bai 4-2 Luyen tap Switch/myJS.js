@@ -11,7 +11,7 @@
 //     alert('2,3')
 // }
 
-let a = prompt('a?', '');
+let a = + prompt('a?', '');
 
 console.log(a);
 
